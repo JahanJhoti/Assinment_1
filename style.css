@@ -1,4 +1,6 @@
-body{margin: 0% 2%;
+body{ background-color: lightgray;
+    margin: 0% 2%;
+   
     
 }
 .menu{text-align: right; margin-right: 142px;}
@@ -7,7 +9,8 @@ body{margin: 0% 2%;
 .menu li a{display: block;color: black; padding: 10px; text-decoration: none;}
 
 section{height: 350px;
-    padding-bottom: 20%;}
+    padding-bottom: 20%;
+}
 
 .part1{ font-family: Bebas Neue;
     font-style: normal;
@@ -20,13 +23,13 @@ section{height: 350px;
 }
 
 span{color: rgb(247, 124, 9);  }
-p{font-size: 16px;
-margin-left: 140px;  }
+p{font-size: 16px; margin-left: 140px;  }
 
 .section1{
     width: 40%;
     float: left;
     margin:3% 0% ;
+    
 }
 
 .section1 img{
@@ -80,5 +83,15 @@ margin-left: 140px;  }
         color:rgb(57, 11, 109);
         border-radius: 20%;
         }
-    
-        
+
+.section3{margin-top: 80px;
+background-color: white;
+height: 600px;
+}
+
+.main_part{overflow: hidden;}
+.colum{width: 20%;
+float: left;
+text-align:center justify;
+margin-top: 20px;}
+
