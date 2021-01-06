@@ -1,0 +1,84 @@
+body{margin: 0% 2%;
+    
+}
+.menu{text-align: right; margin-right: 142px;}
+.menu ul{margin: 0; padding: 0%; list-style: none;}
+.menu li{display: inline-block;}
+.menu li a{display: block;color: black; padding: 10px; text-decoration: none;}
+
+section{height: 350px;
+    padding-bottom: 20%;}
+
+.part1{ font-family: Bebas Neue;
+    font-style: normal;
+    size: 80px;
+    font-weight: unset;
+    height: 80px;
+    color: rgb(54, 57, 88);
+    margin-left: 136px;
+    
+}
+
+span{color: rgb(247, 124, 9);  }
+p{font-size: 16px;
+margin-left: 140px;  }
+
+.section1{
+    width: 40%;
+    float: left;
+    margin:3% 0% ;
+}
+
+.section1 img{
+    
+    width: 700px ;
+    margin-right: 255%;
+    height: 600px;
+}
+
+.link-button1{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, darkorange, pink, darkorange);
+    padding: 8px 25px;
+       margin-left: 140px; 
+        font-weight: 600;
+        color:rgb(57, 11, 109);
+        border-radius: 20%;
+    }
+
+    .section2{
+        width: 60%;
+        float: left;
+        margin:3% 0% ;
+    }
+    .section2 img{
+    
+        width: 700px ;
+        margin-left: 140px;
+        height: 600px;
+    }
+
+    .part2{font-family: Bebas Neue;
+        font-style: normal;
+        size: 80px;
+        font-weight: unset;
+        height: 30px;
+        color: rgb(54, 57, 88);
+        margin-right: 514px;
+    }
+
+    .about{
+        margin-left: 200px;
+    }
+
+    .link-button2{
+        text-decoration: none;
+        background-image: linear-gradient(250deg, darkorange, pink, darkorange);
+        padding: 8px 25px;
+        margin-right: 200px; 
+        font-weight: 600;
+        color:rgb(57, 11, 109);
+        border-radius: 20%;
+        }
+    
+        
